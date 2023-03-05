@@ -6,3 +6,6 @@ Welcome to the Git & GitHub Mastery Guide repository! This repository is designe
 ## Introduction
 
 Git is a powerful version control system that allows you to track changes to your code over time. GitHub is a popular online platform for hosting Git repositories and collaborating with other developers.
+
+
+In this repository, you'll find detailed information on various Git and GitHub commands, including basic and advanced commands, and their use cases. Each section includes examples of how to use the commands in different scenarios, as well as links to relevant documentation and external resources.
