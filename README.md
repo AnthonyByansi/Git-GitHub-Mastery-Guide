@@ -43,3 +43,12 @@ Each command is described in detail, including its purpose, how to use it, and i
 
 ## GitHub Commands
 In this section, you'll find information on various GitHub commands, including:
+
+* git remote
+* git branch
+* git checkout
+* git merge
+* git fetch
+* git pull-request
+* git fork
+* git clone
