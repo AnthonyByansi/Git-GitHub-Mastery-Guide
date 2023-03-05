@@ -54,3 +54,12 @@ In this section, you'll find information on various GitHub commands, including:
 * git clone
 
 Each command is described in detail, including its purpose, how to use it, and its various options and flags. Examples are provided to illustrate how to use the commands in practice.
+
+## Conclusion
+The Git & GitHub Mastery Guide repository is designed to be a comprehensive resource for mastering Git and GitHub commands. We hope you find this guide useful in your projects, and we welcome any feedback or contributions to help improve the repository.
+
+Please refer to the CONTRIBUTING.md file for information on how to contribute to this project.
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
