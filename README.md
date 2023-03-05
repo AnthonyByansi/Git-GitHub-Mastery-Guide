@@ -38,3 +38,5 @@ In this section, you'll find information on various advanced Git commands, inclu
 * git revert
 * git filter-branch
 * git blame
+
+Each command is described in detail, including its purpose, how to use it, and its various options and flags. Examples are provided to illustrate how to use the commands in practice.
