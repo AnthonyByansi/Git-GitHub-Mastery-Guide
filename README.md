@@ -23,3 +23,18 @@ In this section, you'll find information on the following basic Git commands:
 * git clone
 
 Each command is described in detail, including its purpose, how to use it, and its various options and flags. Examples are provided to illustrate how to use the commands in practice.
+
+
+## Advanced Git Commands
+In this section, you'll find information on various advanced Git commands, including:
+
+* git rebase
+* git cherry-pick
+* git bisect
+* git submodule
+* git stash
+* git reflog
+* git reset
+* git revert
+* git filter-branch
+* git blame
