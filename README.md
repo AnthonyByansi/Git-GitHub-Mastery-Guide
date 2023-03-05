@@ -52,3 +52,5 @@ In this section, you'll find information on various GitHub commands, including:
 * git pull-request
 * git fork
 * git clone
+
+Each command is described in detail, including its purpose, how to use it, and its various options and flags. Examples are provided to illustrate how to use the commands in practice.
