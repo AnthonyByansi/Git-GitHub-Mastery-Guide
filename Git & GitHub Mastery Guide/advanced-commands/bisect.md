@@ -6,4 +6,4 @@ Luckily, Git provides a powerful tool that can help you track down bugs more eff
 
 Here's how to use `git bisect` to track down a bug:
 
-Identify the last known good commit. This should be a commit where the bug wasn't present. You can use git log to browse through your commit history and find a commit that fits this criteria.
+Identify the last known good commit. This should be a commit where the bug wasn't present. You can use `git log` to browse through your commit history and find a commit that fits this criteria.
