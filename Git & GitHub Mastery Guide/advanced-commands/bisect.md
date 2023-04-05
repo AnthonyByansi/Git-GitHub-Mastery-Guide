@@ -10,3 +10,8 @@ Here's how to use `git bisect` to track down a bug:
 * Identify the first known bad commit. This should be a commit where the bug was present. If you're not sure when the bug was introduced, you can use `git bisect start` without any arguments to start bisecting from the current commit. Then you can use `git bisect bad` to mark the current commit as bad.
 * Start bisecting. Use `git bisect start` to begin the bisecting process. Git will automatically select a commit between the last known good commit and the first known bad commit. It will then ask you to test that commit to see if the bug is present.
 * Test the selected commit. Compile and run your codebase at the selected commit and determine whether the bug is present or not. If the bug is present, use `git bisect bad` to mark the commit as bad. If the bug is not present, use git bisect good to mark the commit as good.
+* Repeat the process. Git will then select another commit between the last known good commit and the first known bad commit, and ask you to test it. Keep repeating this process until Git has narrowed down the commit where the bug was introduced.
+
+* Identify the bug. Once Git has identified the commit where the bug was introduced, you can use git show <commit> to view the changes made in that commit. This can help you identify the specific code changes that introduced the bug.
+
+* Fix the bug. Once you've identified the code changes that introduced the bug, you can work on fixing it. You can do this by making changes to your codebase and then using git bisect to test whether the bug is still present.
