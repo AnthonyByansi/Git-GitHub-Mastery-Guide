@@ -7,4 +7,4 @@ Luckily, Git provides a powerful tool that can help you track down bugs more eff
 Here's how to use `git bisect` to track down a bug:
 
 * Identify the last known good commit. This should be a commit where the bug wasn't present. You can use `git log` to browse through your commit history and find a commit that fits this criteria.
-* Identify the first known bad commit. This should be a commit where the bug was present. If you're not sure when the bug was introduced, you can use git bisect start without any arguments to start bisecting from the current commit. Then you can use git bisect bad to mark the current commit as bad.
+* Identify the first known bad commit. This should be a commit where the bug was present. If you're not sure when the bug was introduced, you can use `git bisect start` without any arguments to start bisecting from the current commit. Then you can use `git bisect bad` to mark the current commit as bad.
