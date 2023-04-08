@@ -24,3 +24,12 @@ Welcome to Git-GitHub-Mastery-Guide! We appreciate your interest in contributing
 * Before submitting your contribution, test your changes to ensure that they work as intended.
 * Make sure that your contribution is free of spelling and grammatical errors.
 * Submit a pull request with your contribution to the master branch.
+
+## Code of Conduct
+
+We expect all contributors to follow our code of conduct, which can be found in the CODE_OF_CONDUCT.md file in this repository.
+
+## Attribution
+We will give proper attribution to all contributors in the README.md file of this repository.
+
+Thank you for your interest in contributing to Git-GitHub-Mastery-Guide!
